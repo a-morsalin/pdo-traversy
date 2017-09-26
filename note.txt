@@ -1,0 +1,20 @@
+##############################
+What is PDO?
+-------------------------------
+# PHP Data Objects(PHP Extension)
+# Learn & consistent way to  access the database
+# Work with multiple database
+# Data access layer
+# Object Oriented
+--------------------------------
+Some  benefits of PDO
+--------------------------------
+# Multiple database
+# Security/Prepared Statements
+# Usability
+# Reusability
+# Excellent error hendaling
+--------------------------------
+Supported Database
+--------------------------------
+MySQL | MS SQL Server| Oracle | Firebird| Sybase | SQL Lite|Cubrid | Free TDS | Informix | IBM
